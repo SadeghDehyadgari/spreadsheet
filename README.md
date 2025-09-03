@@ -36,8 +36,10 @@ bash
 # Using Python
 python -m http.server 8000
 
+
 # Using Node.js
 npx serve .
+
 Usage 📝
 👆 Click any cell to edit its content
 
