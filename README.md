@@ -34,14 +34,6 @@ bash
 git clone https://github.com/your-username/functional-spreadsheet.git
 Open index.html in your browser or serve with a local server:
 
-bash
-# Using Python
-python -m http.server 8000
-
-
-# Using Node.js
-npx serve .
-
 Usage 📝
 👆 Click any cell to edit its content
 
